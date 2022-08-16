@@ -1,51 +1,51 @@
-# H1 Criteria for work acceptance by the tutor
+# Criteria for work acceptance by the tutor
 
-# H2 Project
+## Project
 
-«A1» The main HTML file is called index.html.
+**«A1»** `The main HTML file is called index.html.`
 
-«A2» In the root of the project, there is a folder called images, which contains images.
+**«A2»** `In the root of the project, there is a folder called images, which contains images.`
 
-«A3» There are no capital letters, spaces and transliteration in the file names, only English letters and words.
+**«A3»** `There are no capital letters, spaces and transliteration in the file names, only English letters and words.`
 
-«A4» Source code is formatted with Prettier.
+**«A4»** `Source code is formatted with Prettier.`
 
-«A5» All images and text content are taken from the layout.
+**«A5»** `All images and text content are taken from the layout.`
 
-«A6» All raster images are optimized using squoosh.
+**«A6»** `All raster images are optimized using squoosh.`
 
-«A7» The code is in line with the guide.
+**«A7»** `The code is in line with the guide.`
 
-# H2 Markup
+## Markup
 
-**«B1»** The Studio page layout is in the index.html file.
+**«B1»** `The Studio page layout is in the index.html file.`
 
-**«B2»** HTML-markup is done for all layout elements.
+**«B2»** `HTML-markup is done for all layout elements.`
 
-**«B3»** Tags are used according to their semantics.
+**«B3»** `Tags are used according to their semantics.`
 
-**«B4»** HTML can be validated using validator without errors.
+**«B4»** `HTML can be validated using validator without errors.`
 
-**«B5»** There are tags in the markup for web page structuring: <header>, <main> and <footer>.
+**«B5»** `There are tags in the markup for web page structuring: <header>, <main> and <footer>.`
 
-**«B6»** The logo in the header and footer is a link with text, not an image.
+**«B6»** `The logo in the header and footer is a link with text, not an image.`
 
-**«B7»** The <nav> tag is used only once, in the page header.
+**«B7»** `The <nav> tag is used only once, in the page header.`
 
-**«B8»** Contacts in the header (mail and phone) are outside the <nav> tag.
+**«B8»** `Contacts in the header (mail and phone) are outside the <nav> tag.`
 
-**«B9»** The <h1> tag is used once per page.
+**«B9»** `The <h1> tag is used once per page.`
 
-«**B10»** An element with the text "Order a service" is a button with type ="button".
+**«B10»** `An element with the text "Order a service" is a button with type ="button".`
 
-«**B11»** Section headings are marked with <h2>.
+**«B11»** `Section headings are marked with <h2>.`
 
-«**B12»** All <img> tags have size attributes, at least width.
+**«B12»** `All <img> tags have size attributes, at least width.`
 
-«**B13»** All <img> tags have the alt attribute, which contains a brief description of what is shown in the picture.
+**«B13»** `All <img> tags have the alt attribute, which contains a brief description of what is shown in the picture.`
 
-«**B14»** Images are exported from the layout in jpg format.
+**«B14»** `Images are exported from the layout in jpg format.`
 
-«**B15»** Groups of the same-type elements are in <ul> lists.
+**«B15»** `Groups of the same-type elements are in <ul> lists.`
 
-«**B16»** The <address> tag is only used in the footer.
+**B16»** `The <address> tag is only used in the footer.`
